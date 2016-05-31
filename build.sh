@@ -13,3 +13,5 @@ mkdir build
 cd build
 cmake ..
 cmake --build . --config Debug
+
+./Kitty
